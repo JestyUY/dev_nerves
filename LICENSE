@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+Apache License 2.0
+
+Copyright 2025
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+
+See https://www.apache.org/licenses/LICENSE-2.0 for full license text.
+=======
 MIT License
 
 Copyright (c) 2025 JestyUY
@@ -19,3 +29,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+>>>>>>> b3686560f8c1c513609f9a32bad209bfc1015e99
