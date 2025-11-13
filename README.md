@@ -2,16 +2,6 @@
 
 A Mix task that creates Nerves projects with complete dev container setup, making Nerves development on Windows (and other platforms) smooth and hassle-free.
 
-## 🎯 What is DevNerves?
-
-DevNerves simplifies the tedious process of setting up a Nerves development environment, especially on Windows. It combines:
-
-- ✅ Automated Nerves project creation
-- ✅ Complete Docker dev container setup
-- ✅ VS Code integration with proper extensions
-- ✅ Interactive target device selection (no more typing numbers!)
-- ✅ WiFi configuration built-in
-- ✅ Comprehensive getting started guide
 
 ## 🚀 Features
 
