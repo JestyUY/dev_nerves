@@ -2,7 +2,7 @@ defmodule DevNerves.MixProject do
   use Mix.Project
 
   @version "0.1.0"
-  @source_url "https://github.com/yourusername/dev_nerves"
+  @source_url "https://github.com/jestyUY/dev_nerves"
 
   def project do
     [
@@ -42,7 +42,8 @@ defmodule DevNerves.MixProject do
 
   defp package do
     [
-      licenses: ["Apache-2.0"],
+      licenses: ["MIT"],
+      maintainers: ["jestyUY"],
       links: %{
         "GitHub" => @source_url
       },
