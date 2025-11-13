@@ -1,6 +1,6 @@
 defmodule Mix.Tasks.DevNerves.New do
   @moduledoc """
-  Creates a new Nerves project with dev container setup for Windows users.
+  Creates a new Nerves project wibth dev container setup for Windows users.
 
   ## Usage
 
@@ -670,7 +670,7 @@ defmodule Mix.Tasks.DevNerves.New do
       UI.tag("╔═══════════════════════════════════════════════════╗\n", :green),
       UI.tag("║  ", :green),
       UI.tag("✨ Success! Your Nerves project is ready!", :bright),
-      UI.tag("     ║\n", :green),
+      UI.tag("║\n", :green),
       UI.tag("╚═══════════════════════════════════════════════════╝\n", :green),
       "\n",
       UI.tag("📁 Project Details:\n", :cyan),
