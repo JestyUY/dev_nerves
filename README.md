@@ -3,6 +3,13 @@
 A Mix task that creates Nerves projects with complete dev container setup, making Nerves development on Windows (and other platforms) smooth and hassle-free.
 
 
+
+```mix archive.install hex dev_nerves```
+
+
+```mix dev_nerves.new project_name```
+
+
 ## 🚀 Features
 
 - **🐳 Dev Container** - Pre-configured Docker environment with all Nerves tools
